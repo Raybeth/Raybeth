@@ -1,11 +1,11 @@
-I actually don't know what you think I know.
-Hi anyway:
+Knowledge is bliss.
+
 
 <!---
 Raybeth/Raybeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center"> 👋, I'm Lisbeth Jimenez</h1>
+<h1 align="center"> Hello there 👋, I'm Lisbeth Jimenez</h1>
 <h3 align="center">I'm passionate about data and problem-solving</h3>
 
 - 🔭 I’m currently working on **Data Science and Front-end**
