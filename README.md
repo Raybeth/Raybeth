@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hello there 👋, I'm Lisbeth Jiménez</h1>
 <h3 align="center">I'm passionate about data and problem-solving</h3>
 
-- 🔭 I’m currently working on **something**
+- 🔭 I’m currently working on **random projects**
 
-- 🌱 I’m currently learning **C# and idk, things...**
+- 🌱 I’m currently learning **C# backend...**
 
 - ⚡ Fun fact **I enjoy reading random stuff about historical events.**
 
