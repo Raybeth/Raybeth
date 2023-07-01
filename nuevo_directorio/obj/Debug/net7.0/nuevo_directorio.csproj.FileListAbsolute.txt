@@ -1,0 +1,15 @@
+/workspaces/Raybeth/nuevo_directorio/bin/Debug/net7.0/nuevo_directorio
+/workspaces/Raybeth/nuevo_directorio/bin/Debug/net7.0/nuevo_directorio.deps.json
+/workspaces/Raybeth/nuevo_directorio/bin/Debug/net7.0/nuevo_directorio.runtimeconfig.json
+/workspaces/Raybeth/nuevo_directorio/bin/Debug/net7.0/nuevo_directorio.dll
+/workspaces/Raybeth/nuevo_directorio/bin/Debug/net7.0/nuevo_directorio.pdb
+/workspaces/Raybeth/nuevo_directorio/obj/Debug/net7.0/nuevo_directorio.csproj.AssemblyReference.cache
+/workspaces/Raybeth/nuevo_directorio/obj/Debug/net7.0/nuevo_directorio.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Raybeth/nuevo_directorio/obj/Debug/net7.0/nuevo_directorio.AssemblyInfoInputs.cache
+/workspaces/Raybeth/nuevo_directorio/obj/Debug/net7.0/nuevo_directorio.AssemblyInfo.cs
+/workspaces/Raybeth/nuevo_directorio/obj/Debug/net7.0/nuevo_directorio.csproj.CoreCompileInputs.cache
+/workspaces/Raybeth/nuevo_directorio/obj/Debug/net7.0/nuevo_directorio.dll
+/workspaces/Raybeth/nuevo_directorio/obj/Debug/net7.0/refint/nuevo_directorio.dll
+/workspaces/Raybeth/nuevo_directorio/obj/Debug/net7.0/nuevo_directorio.pdb
+/workspaces/Raybeth/nuevo_directorio/obj/Debug/net7.0/nuevo_directorio.genruntimeconfig.cache
+/workspaces/Raybeth/nuevo_directorio/obj/Debug/net7.0/ref/nuevo_directorio.dll
