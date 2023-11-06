@@ -15,11 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">I'm passionate about data and problem-solving</h3>
 
-- 🔭 I’m currently working on **random projects**
-
-- 🌱 I’m currently learning **C# backend...**
-
-- ⚡ Fun fact **I enjoy reading random stuff about historical events.**
+Having fun while coding :)
 
 <hr>
 <h3 align="left">Connect with me:</h3>
