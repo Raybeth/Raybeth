@@ -23,6 +23,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
+## 🎓 **Certifications**  
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric_Certified-9B59B6?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Azure Data Fundamentals](https://img.shields.io/badge/-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+
 ---  
 
 ## 🌎 **Let's Connect**  
