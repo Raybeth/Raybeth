@@ -12,7 +12,8 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
 📊 **Data Engineering & Analytics**  
-![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Fabric](https://img.shields.io/badge/-Microsoft_Fabric-9B59B6?style=for-the-badge&logo=microsoft&logoColor=white)  
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
 ![BigQuery](https://img.shields.io/badge/-Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
